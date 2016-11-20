@@ -7,4 +7,5 @@ Simple Steps:
 * running: ```docker-compose up``` or in background ```docker-compose up -d```
 * stopping: ```docker-compose stop```
 * removing: ```docker-compose rm -f```
+* stopping and removing: ```docker-compose down```
 * scaling: ```docker-compose scale app=3``` or mainteinance ```docker-compose scale app=0```
